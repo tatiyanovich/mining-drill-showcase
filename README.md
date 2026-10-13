@@ -5,7 +5,7 @@
 <p align="center"><b>Mine. Refine. Upgrade.</b><br>
 Start with one small drill. End with a missile swarm tearing through planets of ore.</p>
 
-**Role:** Core Developer at Empty Hat, a team of 3
+**Role:** Team Lead & Core Developer at Empty Hat (pet project). I led developers, an artist and a sound designer: planning, task specs, code review, builds.
 **Period:** June 2026 – present
 **Genre:** incremental pixel-art mining game for PC and Mac (Steam)
 **Links:** [Trailer](https://www.youtube.com/watch?v=PqTlENSS5jA) · [YouTube channel](https://www.youtube.com/@EmptyHatGames) · [emptyhat.games](https://emptyhat.games/)
